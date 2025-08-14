@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,product,category,quantity,price
+1,2025-01-01,101,Laptop,Electronics,1,800
+2,2025-01-02,102,Mobile,Electronics,2,500
+3,2025-01-03,103,Desk Chair,Furniture,1,150
+4,2025-01-03,104,Book,Stationery,5,20
+5,2025-01-04,105,Tablet,Electronics,1,300
+6,2025-01-04,101,Pen,Stationery,10,2
+7,2025-01-05,102,Office Desk,Furniture,1,250
+8,2025-01-05,103,Monitor,Electronics,2,200
